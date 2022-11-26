@@ -1,0 +1,15 @@
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\bin\Debug\net7.0\CadastroJudicial.exe
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\bin\Debug\net7.0\CadastroJudicial.deps.json
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\bin\Debug\net7.0\CadastroJudicial.runtimeconfig.json
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\bin\Debug\net7.0\CadastroJudicial.dll
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\bin\Debug\net7.0\CadastroJudicial.pdb
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\obj\Debug\net7.0\CadastroJudicial.csproj.AssemblyReference.cache
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\obj\Debug\net7.0\CadastroJudicial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\obj\Debug\net7.0\CadastroJudicial.AssemblyInfoInputs.cache
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\obj\Debug\net7.0\CadastroJudicial.AssemblyInfo.cs
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\obj\Debug\net7.0\CadastroJudicial.csproj.CoreCompileInputs.cache
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\obj\Debug\net7.0\CadastroJudicial.dll
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\obj\Debug\net7.0\refint\CadastroJudicial.dll
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\obj\Debug\net7.0\CadastroJudicial.pdb
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\obj\Debug\net7.0\CadastroJudicial.genruntimeconfig.cache
+C:\Users\caiop\Documents\ProjetosDotNet\CadastroPessoa3\obj\Debug\net7.0\ref\CadastroJudicial.dll
